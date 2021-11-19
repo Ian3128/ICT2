@@ -1,13 +1,13 @@
 
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
+  box-shadow: 0 12px 12px 0 rgba(0, 0, 0, 0.2);
+  max-width: 3500px;
   margin: auto;
   text-align: center;
 }
 
 .title {
-  color: grey;
+  color: rgb(0, 17, 255);
   font-size: 18px;
 }
 
@@ -16,8 +16,8 @@ button {
   outline: 0;
   display: inline-block;
   padding: 8px;
-  color: white;
-  background-color: #000;
+  color: rgb(0, 0, 0);
+  background-color: rgb(0, 255, 191);
   text-align: center;
   cursor: pointer;
   width: 100%;
@@ -27,7 +27,7 @@ button {
 a {
   text-decoration: none;
   font-size: 22px;
-  color: black;
+  color: rgb(0, 132, 255);
 }
 
 button:hover, a:hover {
